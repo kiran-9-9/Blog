@@ -1,5 +1,5 @@
 // API Configuration
-const API_URL = 'https://blog-0d0r.onrender.com'; // Change to your deployed backend URL
+const API_URL = 'https://blogspaz.onrender.com'; // Change to your deployed backend URL
 
 // State Management
 let currentUser = null;
